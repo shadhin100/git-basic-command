@@ -1,0 +1,9 @@
+Set Up Git:
+git config --global user.name "Your Name"                 #set your name via access to command line.
+git config --global user.email "youremail@domain.com"     #set your email via access to command line.
+
+other commands
+git clone (url)                      #clone or download the git project.
+git add (file names)                 # added new file to your local machine to git project.
+git commit -m "(committed message)   #committed that you sure to upload this file to your git project.
+git push -u origin master            #finally you upload the new file to your github project repositories.
